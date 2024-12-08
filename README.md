@@ -2,7 +2,7 @@
 
 ## 
 
-Este projeto tem como objetivo analisar um conjunto de dados sobre empresas a performance dos alunos em comparação a escolaridade dos pais e cursos preparatórios. Através da linguagem Python e das bibliotecas pandas, numpy, seaborn e matplotlib, foram realizadas, tratamento de dados, análises exploratórias e visualizações de dados.
+Este projeto tem como objetivo analisar um conjunto de dados sobre performance dos alunos em comparação a escolaridade dos pais e cursos preparatórios. Através da linguagem Python e das bibliotecas pandas, numpy, seaborn e matplotlib, foram realizadas, tratamento de dados, análises exploratórias e visualizações de dados.
 
 ## Ferramentas Utilizadas
 
